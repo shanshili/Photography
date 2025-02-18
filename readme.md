@@ -1,3 +1,28 @@
+# Observing Chronicles:
+## 1. Environment
+
+When shooting the night sky, a large-scale dark environment is crucial, and minimizing light pollution is important. For this session, the shooting location was on the campus square, with no densely lit areas within a 1km radius.
+
+## 2.1 Large Aperture (Small F-Value)
+
+A large aperture allows for shorter shutter times and easily captures the brighter stars. By comparing with Sky Map, the positions of Mars and Jupiter can be located, and further details of constellations can be obtained using Stellarium.
+
+ Jupiter and its four moons can also be seen relatively clearly.
+
+## 2.2 Small Aperture (High F-Value)
+
+A small aperture requires longer shutter times but can capture more faint stars and details. Comparing with Stellarium, more details of NGC 1980 and additional stars near the belt of Orion can be observed.
+
+## 2.3 Daily Continuous Recording
+
+Daily continuous recording can reveal orbital trajectories. For example, the relative positions of Jupiter's moons around Jupiter will change.
+
+## 3. Artificial Satellite Observation
+
+Artificial satellites are much brighter than stars and move faster, but with so many satellites, it is difficult to identify specific ones. Every ten minutes, their position, azimuth angle, and approximate trajectory were recorded. The website in-the-sky.org can display major satellites in orbit, but it lacks information on some commercial satellites. The website spaceaware.io records a more comprehensive list of satellites in orbit. However, even with these methods, it is only a rough estimation, and satellites are too reflective, making it difficult to capture distinct features.
+
+
+
 # 拍摄笔记：
 ## 1 环境
 拍摄星空，较大范围黑暗的拍摄环境很重要，尽可能减少光污染。这次在校园里的广场上拍摄，1km范围内没有密集灯光。
