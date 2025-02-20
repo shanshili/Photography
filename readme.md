@@ -8,11 +8,9 @@ When shooting the night sky, a large-scale dark environment is crucial, and mini
 A large aperture allows for shorter shutter times and easily captures the brighter stars. By comparing with Sky Map, the positions of Mars and Jupiter can be located, and further details of constellations can be obtained using Stellarium.
 ![](https://github.com/shanshili/Photography/blob/2b8c106c98f5d6855fdb9e6bb33849e4d3cc4895/processd_denoise.jpg)
 ![](https://github.com/shanshili/Photography/blob/2b8c106c98f5d6855fdb9e6bb33849e4d3cc4895/processd_denoise.png)
-<img src="https://github.com/shanshili/Photography/blob/2b8c106c98f5d6855fdb9e6bb33849e4d3cc4895/3.jpg" style="zoom:5%;" /><img src="https://github.com/shanshili/Photography/blob/2b8c106c98f5d6855fdb9e6bb33849e4d3cc4895/2.jpg" style="zoom:5%;" />
 
 Jupiter and its four moons can also be seen relatively clearly.
 ![](https://github.com/shanshili/Photography/blob/2b8c106c98f5d6855fdb9e6bb33849e4d3cc4895/DSC_9667_1.JPG)
-<img src="https://github.com/shanshili/Photography/blob/2b8c106c98f5d6855fdb9e6bb33849e4d3cc4895/1.jpg" style="zoom:5%;" />
 ![](https://github.com/shanshili/Photography/blob/2b8c106c98f5d6855fdb9e6bb33849e4d3cc4895/DSC_9667.JPG)
 
 ## 2.2 Small Aperture (High F-Value)
