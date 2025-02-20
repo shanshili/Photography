@@ -6,12 +6,20 @@ When shooting the night sky, a large-scale dark environment is crucial, and mini
 ## 2.1 Large Aperture (Small F-Value)
 
 A large aperture allows for shorter shutter times and easily captures the brighter stars. By comparing with Sky Map, the positions of Mars and Jupiter can be located, and further details of constellations can be obtained using Stellarium.
+![](https://github.com/shanshili/Photography/blob/2b8c106c98f5d6855fdb9e6bb33849e4d3cc4895/processd_denoise.jpg)
+![](https://github.com/shanshili/Photography/blob/2b8c106c98f5d6855fdb9e6bb33849e4d3cc4895/processd_denoise.png)
+<img src="https://github.com/shanshili/Photography/blob/2b8c106c98f5d6855fdb9e6bb33849e4d3cc4895/3.jpg" style="zoom:5%;" /><img src="https://github.com/shanshili/Photography/blob/2b8c106c98f5d6855fdb9e6bb33849e4d3cc4895/2.jpg" style="zoom:5%;" />
 
- Jupiter and its four moons can also be seen relatively clearly.
+Jupiter and its four moons can also be seen relatively clearly.
+![](https://github.com/shanshili/Photography/blob/2b8c106c98f5d6855fdb9e6bb33849e4d3cc4895/DSC_9667_1.JPG)
+<img src="https://github.com/shanshili/Photography/blob/2b8c106c98f5d6855fdb9e6bb33849e4d3cc4895/1.jpg" style="zoom:5%;" />
+![](https://github.com/shanshili/Photography/blob/2b8c106c98f5d6855fdb9e6bb33849e4d3cc4895/DSC_9667.JPG)
 
 ## 2.2 Small Aperture (High F-Value)
 
 A small aperture requires longer shutter times but can capture more faint stars and details. Comparing with Stellarium, more details of NGC 1980 and additional stars near the belt of Orion can be observed.
+![](https://github.com/shanshili/Photography/blob/2b8c106c98f5d6855fdb9e6bb33849e4d3cc4895/DSC_9676_processd_denoise2.jpg)
+![](https://github.com/shanshili/Photography/blob/2b8c106c98f5d6855fdb9e6bb33849e4d3cc4895/DSC_9676_processd_denoise2.png)
 
 ## 2.3 Daily Continuous Recording
 
@@ -20,7 +28,7 @@ Daily continuous recording can reveal orbital trajectories. For example, the rel
 ## 3. Artificial Satellite Observation
 
 Artificial satellites are much brighter than stars and move faster, but with so many satellites, it is difficult to identify specific ones. Every ten minutes, their position, azimuth angle, and approximate trajectory were recorded. The website in-the-sky.org can display major satellites in orbit, but it lacks information on some commercial satellites. The website spaceaware.io records a more comprehensive list of satellites in orbit. However, even with these methods, it is only a rough estimation, and satellites are too reflective, making it difficult to capture distinct features.
-
+![](https://github.com/shanshili/Photography/blob/2b8c106c98f5d6855fdb9e6bb33849e4d3cc4895/DSC_9656_processed.jpg)
 
 
 # 拍摄笔记：
